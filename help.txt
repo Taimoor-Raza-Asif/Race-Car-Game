@@ -1,0 +1,28 @@
+   ===========================================
+          Racing Car Game - Help
+   ===========================================
+
+Welcome to the Racing Car Game!
+
+Controls:
+   - Use the Up and Down arrow keys to navigate the menu.
+   - Press Enter to select an option.
+   - In the game, use A-W-S-D keys to control the car.
+
+Objectives:
+   - Start: Begin the racing game.
+   - Top Score: View the highest scores. Aim to be at the top!
+   - Options: Configure game settings.
+   - Help: Display this help menu.
+   - Quit: Exit the game.
+
+Game Features:
+   - High Score: The maximum score achieved is displayed at the top.
+   - Collect Coins: Navigate through the race track to collect coins.
+   - Coin Multiplier (xC): Collecting coins increases your score by a multiplier.
+     The multiplier increases with the number of coins collected.
+     Aim to maximize your score by collecting coins strategically!
+
+Enjoy the race, collect coins, and aim for the highest score!
+
+   ===========================================
